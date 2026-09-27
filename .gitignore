@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+.vercel/
+.env*
+*.log
+desktop.ini
+Thumbs.db
+.claude/
+
+# Privado: claves de cada jugador y mensaje original del grupo
+*/Clave_Jornada*.txt
+reglas euro.txt
